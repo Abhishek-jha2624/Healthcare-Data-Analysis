@@ -1,8 +1,8 @@
 ## Healthcare-Data-Analysis
 
-#This project uses SQL to perform data analysis on a healthcare dataset from Kaggle. The analysis provides insights into various aspects of patient data, including demographics, medical conditions, financial information, and hospital performance.
+This project uses SQL to perform data analysis on a healthcare dataset from Kaggle. The analysis provides insights into various aspects of patient data, including demographics, medical conditions, financial information, and hospital performance.
 
-#Key Features and Analyses:
+Key Features and Analyses:
 Data Overview & Basic Statistics: The project explores the dataset to understand patient information, including the total number of records, and the maximum and average ages of patients.
 
 Medical Conditions & Medications: The analysis identifies prevalent medical conditions and the frequency of prescribed medications for those conditions.
@@ -17,7 +17,7 @@ Yearly Admissions & Insurance Analysis: The analysis identifies hospitals with p
 
 Patient Risk Categorization: A new column was created to categorize patients into high, medium, or low-risk categories based on their medical conditions and test results.
 
-#Dataset Column Descriptions:
+Dataset Column Descriptions:
 Name: The name of the patient.
 
 Age: The patient's age in years at the time of admission.
